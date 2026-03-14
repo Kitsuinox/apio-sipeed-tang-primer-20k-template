@@ -1,0 +1,14 @@
+{
+	"sipeed-tang-primer-20k": {
+		"description": "Sipeed Tang Primer 20k",
+		"fpga-id": "gw2a-lv18pg256c8-i7",
+		"programmer": {
+			"id": "openfpgaloader",
+			"extra-args": "-b tangprimer20k"
+		},
+		"usb": {
+			"vid": "0403",
+			"pid": "6010"
+		}
+	}
+}
